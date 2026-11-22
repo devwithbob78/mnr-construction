@@ -13,7 +13,7 @@ A responsive, premium-style frontend concept for MNR Construction. Built with pl
 Open `index.html` in a browser, or serve this folder with any static web server. No build step is required.
 
 ## Important before launch
-1. Replace the phone, email, service area, and any other placeholder details once supplied by the client.
+1. The client contact phone (+1 402-906-0253) and email (Josemontesrx13@gmail.com) have been added. No company location or service area is displayed because it has not yet been confirmed.
 2. The project gallery currently uses Unsplash stock photography for visual presentation. These are illustrative images, not verified MNR projects. Replace them with the company's own work before describing them as completed projects.
 3. The quote form is a frontend-only preview and does not send or store submissions.
 4. The admin dashboard is a static UI preview. It has no login, database, saving, upload, or live analytics yet.
